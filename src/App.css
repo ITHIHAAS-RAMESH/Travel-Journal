@@ -1,0 +1,9 @@
+.app{
+  background-color: rgb(255, 255, 255);
+  height: fit-content;
+  padding-bottom: 40px;
+  border-radius: 9px;
+  width: fit-content;
+  margin: 15px auto;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+}
